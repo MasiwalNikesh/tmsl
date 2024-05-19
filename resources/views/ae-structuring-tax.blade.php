@@ -30,7 +30,7 @@
                                     <img src="images/icon/services/tax/10.png" alt="Tax Automation Icon" class="icon">
                                     <h5><a href="">Audit Support</a></h5>
                                     <p>
-                                    <ul>
+                                    <ul style="list-style-type: disc; text-align: left;">
                                         <li>Providing pre-audit, during audit and post audit support to Companies as transaction advisory, documentation support, etc.</li>
                                         <li>Highlighting risks, areas of exposure / non-compliance during pre-audit and audit phase</li>
                                         <li>Advising on way-forward post completion of Audit by the Authorities</li>
@@ -46,7 +46,9 @@
                                     <img src="images/icon/services/tax/11.png" alt="RPA Solutions Icon" class="icon">
                                     <h5><a href="">Deputation Support</a></h5>
                                     <p>
-                                    o	We can assist companies by providing tax specialists (i.e. outsourcing, co-sourcing, deputation, etc.) so that the company must only focus on business while tax compliances are handled by experts. 
+                                     <ul style="list-style-type: disc; text-align: left;">
+                                        <li>We can assist companies by providing tax specialists (i.e. outsourcing, co-sourcing, deputation, etc.) so that the company must only focus on business while tax compliances are handled by experts.</li>
+                                    </ul>
                                     </p>
                                 </div> <!-- /.single-solution-block -->
                             </div> <!-- /.col- -->
@@ -57,12 +59,13 @@
                                     <img src="images/icon/services/tax/12.png" alt="VAT Tool Icon" class="icon">
                                     <h5><a href="">Tax Advisory</a></h5>
                                     <p>
-                                    <ul>
+                                    <ul style="list-style-type: disc; text-align: left;">
                                         <li>Tax implications on day-to-day operations</li>
                                         <li>Implications of amendments</li>
                                         <li>Implications on specific business activities/transactions/Contracts</li>
                                         <li>Providing Technical and Functional Trainings</li>
                                         <li>Developing Standard Operating Procedures (SOPs)</li>
+                                        <li>Health Check Pointer</li>
                                     </ul>
 
                                     </p>

@@ -36,14 +36,19 @@
     <div class="single-solution-block">
         <img src="images/icon/services/tax/5.png" alt="Registration Support Icon" class="icon">
         <h5><a href="">Registration Support</a></h5>
-        <p>
-            Facilitates crucial registration processes including:
-            <ul>
-                <li>Registration with Tax Authorities</li>
-                <li>Amendment of Registration with Tax Authorities</li>
-                <li>Deregistration before Tax Authorities</li>
-                <li>Change in User Id on FTA Portal</li>
+        <p style="text-align: left;">
+            <p style="text-align: left;">
+                <b>Facilitates crucial registration processes including:</b>
+                <ul style="list-style-position: inside;">
+                    <li style="list-style-type: disc; text-align: left;">Registration with Tax Authorities</li>
+                    <li style="list-style-type: disc; text-align: left;">Amendment of Registration with Tax Authorities</li>
+                    <li style="list-style-type: disc; text-align: left;">Deregistration before Tax Authorities</li>
+                    <li style="list-style-type: disc; text-align: left;">Change in User Id on FTA Portal</li>
+                </ul>
+            </p>
+         
             </ul>
+        </p>
         </p>
     </div> <!-- /.single-solution-block -->
 </div> <!-- /.col- -->
@@ -53,12 +58,12 @@
     <div class="single-solution-block">
         <img src="images/icon/services/tax/6.png" alt="Return Support Icon" class="icon">
         <h5><a href="">Return Support</a></h5>
-        <p>
-            Provides assistance with tax returns:
+       <p style="text-align: left;">
+            <b>Provides assistance with tax returns:</b>
             <ul>
-                <li>Review of Return workings and documentation</li>
-                <li>Computation of liability</li>
-                <li>Assistance in finalizing and filing returns</li>
+                <li style="list-style-type: disc; text-align: left;">Review of Return workings and documentation</li>
+                <li style="list-style-type: disc; text-align: left;">Computation of liability</li>
+                <li style="list-style-type: disc; text-align: left;">Assistance in finalizing and filing returns</li>
             </ul>
         </p>
     </div> <!-- /.single-solution-block -->
@@ -69,12 +74,12 @@
     <div class="single-solution-block">
         <img src="images/icon/services/tax/7.png" alt="Refund Support Icon" class="icon">
         <h5><a href="">Refund Support</a></h5>
-        <p>
-            Guides through refund processes:
+       <p style="text-align: left;">
+            <b>Guides through refund processes:</b>
             <ul>
-                <li>Advising on refund application strategy</li>
-                <li>Preparation and submission of refund applications</li>
-                <li>Assisting in responses to authority queries</li>
+                <li style="list-style-type: disc; text-align: left;">Advising on refund application strategy</li>
+                <li style="list-style-type: disc; text-align: left;">Preparation and submission of refund applications</li>
+                <li style="list-style-type: disc; text-align: left;">Assisting in responses to authority queries</li>
             </ul>
         </p>
     </div> <!-- /.single-solution-block -->
@@ -85,12 +90,13 @@
     <div class="single-solution-block">
         <img src="images/icon/services/tax/8.png" alt="VAT De-registration Icon" class="icon">
         <h5><a href="">VAT De-registration</a></h5>
-        <p>
-            Supports VAT deregistration with:
+        <p style="text-align: left;">
+            <b>Supports VAT deregistration with:</b>
             <ul>
-                <li>Understanding the facts and applying provisions</li>
-                <li>Providing a checklist and reviewing information for submissions</li>
-                <li>Liaising with the Federal Tax Authority</li>
+                <li style="list-style-type: disc; text-align: left;">Understanding the facts and applying provisions</li>
+                <li style="list-style-type: disc; text-align: left;">Providing a checklist and reviewing information for submissions</li>
+                <li style="list-style-type: disc; text-align: left;">Liaising with the Federal Tax Authority</li>
+                <li style="list-style-type: disc; text-align: left;">Assisting in submitting the VAT deregistration application on the FTA portal</li>
             </ul>
         </p>
     </div> <!-- /.single-solution-block -->
@@ -101,11 +107,11 @@
     <div class="single-solution-block">
         <img src="images/icon/services/tax/9.png" alt="Voluntary Disclosure Support Icon" class="icon">
         <h5><a href="">Voluntary Disclosure Support</a></h5>
-        <p>
-            Assists companies in voluntary disclosure processes:
+        <p style="text-align: left;">
+            <b>Assists companies in voluntary disclosure processes:</b>
             <ul>
-                <li>Reviewing and preparing filings for voluntary disclosure</li>
-                <li>Filing assistance on the FTA portal</li>
+                <li style="list-style-type: disc; text-align: left;">Assisting Companies in filing & reviewing the workings prepared for filing of Voluntary Disclosure</li>
+                <li style="list-style-type: disc; text-align: left;">Assistance in filing the Voluntary Disclosure on the FTA portal</li>
             </ul>
         </p>
     </div> <!-- /.single-solution-block -->

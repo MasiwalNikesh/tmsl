@@ -34,7 +34,7 @@
                         <hr>
                     </div> <!-- /.theme-title-one -->
                         <div class="row">
-                            <div class="col-xl-4 col-md-6 col-12">
+                            <div class="col-xl-6 col-md-6 col-12">
                                 <div class="single-service">
                                     <div class="img-box"><img src="images/services.jpg" alt=""></div>
                                     <div class="text">
@@ -44,7 +44,7 @@
                                     </div> <!-- /.text -->
                                 </div> <!-- /.single-service -->
                             </div> <!-- /.col- -->
-                            <div class="col-xl-4 col-md-6 col-12">
+                            <div class="col-xl-6 col-md-6 col-12">
                                 <div class="single-service">
                                     <div class="img-box"><img src="images/services.jpg" alt=""></div>
                                     <div class="text">

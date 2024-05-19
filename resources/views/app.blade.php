@@ -2,7 +2,7 @@
 <html lang="en" data-cookies-popup="true">
 
 @include('layouts.head')
-@include('layouts.header')
+@include('layouts.header-uae')
 
 <!-- Content -->
 @yield('content')

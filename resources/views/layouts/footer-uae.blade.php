@@ -91,7 +91,7 @@
 								<p>
 								TMSL stands for Tax Technology Managed Services LLP. TMSL is a modern day Tax Technology firm that provides tax services- technologically. TMSL is envisioned and founded by leaders to automate the routine and mundane compliances for businesses to focus on the essential strategic functions.
 								</p>
-								<div class="queries"><i class="flaticon-address"></i> Any Queries 	<div class="phone-icon"><i class="fa fa-phone"></i> (+971 4451 2376) | (+971 54 449 5785)  </div> </div>
+								<div class="queries"><i class="flaticon-address"></i> Any Queries 	<div class="location-icon"><i class="fa fa-location"></i> 501, Al Moosa Tower, 1, Sheikh Zayed Road, Dubai, UAE </div> </div>
 							</div> <!-- /.about-widget -->
 						
 							<div class="col-xl-4 col-lg-3 col-sm-6 footer-list">
@@ -105,11 +105,12 @@
 							</div> <!-- /.footer-list -->
 							<div class="col-xl-4 col-lg-2 col-sm-6 footer-newsletter">
 								<h6 class="title">NEWSLETTER</h6>
-								<form action="#">
-									<input type="text" placeholder="Name *">
-									<input type="email" placeholder="Email *">
-									<button class="theme-button-one">SUBSCRIBE</button>
+								<form action="{{ route('handler') }}" method="GET">
+									<input type="text" placeholder="Name *" name="name">
+									<input type="email" placeholder="Email *" name="email">
+									<button class="theme-button-one" type="submit">SUBSCRIBE</button>
 								</form>
+							</div>
 							</div>
 						</div> <!-- /.row -->
 					</div> <!-- /.container -->
@@ -120,10 +121,10 @@
 							<div class="col-md-6 col-12"><p>&copy; Copyrights 2024. All Rights Reserved.</p></div>
 							<div class="col-md-6 col-12">
 								<ul>
-									<li><a href="{{ route('about') }}">About</a></li>
+									{{-- <li><a href="{{ route('about') }}">About</a></li>
 									<li><a href="{{ route('insights') }}">Insights</a></li>
 									<li><a href="{{ route('tmsl-tool') }}">Tools</a></li>
-									<li><a href="{{ route('contact') }}">Contact</a></li>
+									<li><a href="{{ route('contact') }}">Contact</a></li> --}}
 								</ul>
 							</div>
 						</div>

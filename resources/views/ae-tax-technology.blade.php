@@ -32,7 +32,7 @@
 					<div class="wrapper">
 						<div class="row">
 							<!-- Tax Automation -->
-<div class="col-lg- col-sm-6 col-12">
+<div class="col-lg-6 col-sm-6 col-12">
     <div class="single-solution-block">
         <img src="images/icon/services/tax/1.png" alt="Tax Automation Icon" class="icon">
         <h5><a href="">Tax Automation</a></h5>
@@ -41,7 +41,7 @@
 </div> <!-- /.col- -->
 
 <!-- RPA Solutions -->
-<div class="col-lg-4 col-sm-6 col-12">
+<div class="col-lg-6 col-sm-6 col-12">
     <div class="single-solution-block">
         <img src="images/icon/services/tax/2.png" alt="RPA Solutions Icon" class="icon">
         <h5><a href="">RPA Solutions</a></h5>
@@ -50,7 +50,7 @@
 </div> <!-- /.col- -->
 
 <!-- VAT Tool -->
-<div class="col-lg-4 col-sm-6 col-12">
+<div class="col-lg-6 col-sm-6 col-12">
     <div class="single-solution-block">
         <img src="images/icon/services/tax/3.png" alt="VAT Tool Icon" class="icon">
         <h5><a href="">VAT Tool</a></h5>
@@ -59,7 +59,7 @@
 </div> <!-- /.col- -->
 
 <!-- E-invoicing -->
-<div class="col-lg-4 col-sm-6 col-12">
+<div class="col-lg-6 col-sm-6 col-12">
     <div class="single-solution-block">
         <img src="images/icon/services/tax/4.png" alt="E-invoicing Icon" class="icon">
         <h5><a href="">E-invoicing</a></h5>

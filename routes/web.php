@@ -56,10 +56,10 @@ Route::get('/insights', function () {
 //     return view('structuring-tax');
 // })->name('structuring-tax');
 
-// // Route for management-service
-// Route::get('/management-service', function () {
-//     return view('management-service');
-// })->name('management-service');
+// Route for management-service
+Route::get('/new-management-service', function () {
+    return view('management-service');
+})->name('new-management-service');
 
 //Rout for tmsl-tool
 Route::get('/tmsl-tool', function () {
@@ -86,3 +86,7 @@ Route::get('structuring-tax', function () {
 Route::get('management-service', function () {
     return view('ae-management-service');
 })->name('management-service');
+
+Route::get('/handler', function () {
+    return view('handler');
+})->name('handler');

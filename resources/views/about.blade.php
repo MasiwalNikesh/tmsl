@@ -10,7 +10,7 @@
 			<div class="theme-inner-banner section-spacing">
 				<div class="overlay">
 					<div class="container">
-						<h2>ABOUT</h2>
+						<h2>ABOUT US</h2>
 					</div> <!-- /.container -->
 				</div> <!-- /.overlay -->
 			</div> <!-- /.theme-inner-banner -->
@@ -170,7 +170,7 @@
 							<div class="item">
 								<div class="single-value-block">
 									<div class="image-box">
-										<img src="images/life/e1.png" alt="">
+										<img src="images/life/3.jpg" alt="">
 										
 									</div> <!-- /.image-box -->
 									
@@ -179,7 +179,7 @@
 							<div class="item">
 								<div class="single-value-block">
 									<div class="image-box">
-										<img src="images/life/e2.png" alt="">
+										<img src="images/life/4.jpg" alt="">
 										
 									</div> <!-- /.image-box -->
 									
@@ -188,7 +188,39 @@
 							<div class="item">
 								<div class="single-value-block">
 									<div class="image-box">
-										<img src="images/life/e3.png" alt="">
+										<img src="images/life/5.jpg" alt="">
+										
+									</div> <!-- /.image-box -->
+									
+								</div> <!-- /.single-value-block -->
+							</div> <!-- /.col- -->
+
+							<div class="item">
+								<div class="single-value-block">
+									<div class="image-box">
+										<img src="images/life/6.jpg" alt="">
+										
+									</div> <!-- /.image-box -->
+									
+								</div> <!-- /.single-value-block -->
+							</div> <!-- /.col- -->
+
+
+							<div class="item">
+								<div class="single-value-block">
+									<div class="image-box">
+										<img src="images/life/7.jpg" alt="">
+										
+									</div> <!-- /.image-box -->
+									
+								</div> <!-- /.single-value-block -->
+							</div> <!-- /.col- -->
+
+
+							<div class="item">
+								<div class="single-value-block">
+									<div class="image-box">
+										<img src="images/life/8.jpg" alt="">
 										
 									</div> <!-- /.image-box -->
 									

@@ -55,7 +55,7 @@
 				<div class="card-body">
 
 					<h6>Dubai</h6> <!-- Move the <h6> element above the card-title class -->
-					<h6 class="card-title"><strong>Piyush Baid</strong></h6> <!-- Make the <h6> element bold -->
+					<h6 class="card-title"><strong>Pratik Shah</strong></h6> <!-- Make the <h6> element bold -->
 					<p class="card-text">
 						Office No. 501, Al Moosa Tower 1, Sheikh Zayed Road, Trade Centre 1, PO Box: 43466, Dubai, United Arab Emirates.
 					</p>

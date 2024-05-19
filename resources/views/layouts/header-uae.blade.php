@@ -141,21 +141,21 @@
 <header class="header-one">
 				<div class="top-header">
 					<div class="container clearfix">
-						<div class="logo float-left"><a href="{{ route('home') }}"><img width="200" src="{{ asset('images/logo/logo.png') }}" alt=""></a></div>
+						<div class="logo float-left"><a href="{{ route('home') }}"><img width="200" src="{{ asset('images/uae/logo-uae.png') }}" alt=""></a></div>
 						<div class="address-wrapper float-right">
 							<ul>
-								<li class="address">
+								{{-- <li class="address">
 									<i class="icon flaticon-placeholder"></i>
 									<h6>Address:</h6>
 									{{-- <p>1001 – B, Pinnacle Corporate Park, BKC CST Link Rd, Next to Trade Centre, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra - 400051.</p> --}}
-								</li>
+								{{-- </li> --}}
 								<li class="address">
 									<i class="icon flaticon-multimedia"></i>
 									<h6>Mail us:</h6>
-									<p>info@tmsl.in</p>
+									<p>taxteam@tmslglobal.com</p>
 								</li>
 								<li>
-									<a href="{{ route('home-uae') }}" style="display: flex">
+									<a href="{{ route('home') }}" style="display: flex">
 										<img width="50" src="{{ asset('images/home/united-arab-emirates.png') }}" alt="United Arab Emirates Flag">
 									</a>
 								</li>

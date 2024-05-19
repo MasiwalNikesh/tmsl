@@ -1,3 +1,4 @@
+
 <div class="our-team section-spacing">
     <div class="container">
         <div class="wrapper">
@@ -9,7 +10,7 @@
                             <div class="overlay">
                                 <div class="hover-content">
                                     <ul>
-                                        <li><a href="https://www.linkedin.com/in/jigar-doshi-b4b48668?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" aria-label="LinkedIn profile for Jigar Doshi"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/in/jigar-doshi-b4b48668/" aria-label="LinkedIn profile for Jigar Doshi"><i class="fa fa-linkedin"></i></a></li>
                                         <li><a href="https://wa.me/919820355787" aria-label="WhatsApp contact for Jigar Doshi"><i class="fa fa-whatsapp"></i></a></li>
                                         <li><a href="{{ asset('document/Jigar Doshi - Profile.pdf') }}" aria-label="PDF for Jigar Doshi"><i class="fa fa-file-pdf-o"></i></a></li>
 
@@ -19,7 +20,7 @@
                             </div>
                         </div>
                     <div class="text">
-                        <h6>Jigar Doshi</h6>
+                        <h6>Jigar Doshi <br> جيجار دوشي</h6>
                         <p>India & GCC</p>
                     </div>
                 </div>
@@ -35,7 +36,7 @@
                         <div class="overlay">
                             <div class="hover-content">
                                 <ul>
-                                    <li><a href="https://www.linkedin.com/in/pratik-shah-99306a86?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" aria-label="LinkedIn profile for Pratik Shah"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/pratik-shah-99306a86/" aria-label="LinkedIn profile for Pratik Shah"><i class="fa fa-linkedin"></i></a></li>
                                     <li><a href="https://wa.me/919833532232" aria-label="WhatsApp contact for Pratik Shah"><i class="fa fa-whatsapp"></i></a></li>
                                      <li><a href="{{ asset('document/Pratik Profile.pdf') }}" aria-label="PDF for Pratik Shah"><i class="fa fa-file-pdf-o"></i></a></li>
 
@@ -45,7 +46,7 @@
                         </div>
                     </div>
                     <div class="text">
-                        <h6>Pratik Shah</h6>
+                        <h6>Pratik Shah <br> براتيك شاه</h6>
                         <p>India & GCC</p>
                     </div>
     </div>
@@ -57,7 +58,7 @@
                         <div class="overlay">
                             <div class="hover-content">
                                 <ul>
-                                    <li><a href="https://www.linkedin.com/in/sanket-shah-02439568?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" aria-label="LinkedIn profile for Sanket Shah"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/sanket-shah-02439568/" aria-label="LinkedIn profile for Sanket Shah"><i class="fa fa-linkedin"></i></a></li>
                                     <li><a href="https://wa.me/919820444889" aria-label="WhatsApp contact for Sanket Shah"><i class="fa fa-whatsapp"></i></a></li>
                                 </ul>
                                 <p>Sanket, a Director at TMSL, brings 15+ years of corporate tax expertise, specializing in international taxation and regulatory advisory.</p>
@@ -65,7 +66,7 @@
                         </div>
                     </div>
                     <div class="text">
-                        <h6>Sanket Shah</h6>
+                        <h6>Sanket Shah <br> سانكيت شاه</h6>
                         <p>India & GCC</p>
                     </div>
     </div>
@@ -85,7 +86,7 @@
                             </div>
                         </div>
                         <div class="text">
-                            <h6>Ravi Chitnis</h6>
+                            <h6>Ravi Chitnis <br> رافي تشيتنيس</h6>
                             <p>GCC</p>
                         </div>
                     </div>
@@ -98,7 +99,7 @@
                         <div class="overlay">
                             <div class="hover-content">
                                 <ul>
-                                    <li><a href="https://www.linkedin.com/in/piyushbaid7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" aria-label="LinkedIn profile for Piyush Baid"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/piyushbaid7/" aria-label="LinkedIn profile for Piyush Baid"><i class="fa fa-linkedin"></i></a></li>
                                     <li><a href="https://wa.me/919740555959" aria-label="WhatsApp contact for Piyush Baid"><i class="fa fa-whatsapp"></i></a></li>
                                 </ul>
                                 <p>Chartered Accountant with more than 13 years of experience. Specialized in GCC Taxes.</p>
@@ -106,7 +107,7 @@
                         </div>
                     </div>
                     <div class="text">
-                        <h6>Piyush Baid</h6>
+                        <h6>Piyush Baid <br> بيوش بايد</h6>
                         <p>GCC</p>
                     </div>
                 </div>
@@ -119,7 +120,7 @@
         <div class="overlay">
             <div class="hover-content">
                 <ul>
-                    <li><a href="https://www.linkedin.com/in/jinesh-baid-42729088?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" aria-label="LinkedIn profile for Jinesh Baid"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/jinesh-baid-42729088/" aria-label="LinkedIn profile for Jinesh Baid"><i class="fa fa-linkedin"></i></a></li>
                     <li><a href="https://wa.me/919158884460" aria-label="WhatsApp contact for Jinesh Baid"><i class="fa fa-whatsapp"></i></a></li>
                 </ul>
                 <p>Chartered Accountant with more than 10 years of experience. Specialized in GCC Taxes
@@ -128,7 +129,7 @@
         </div>
     </div>
     <div class="text">
-        <h6>Jinesh Baid</h6>
+        <h6>Jinesh Baid <br> جينيش بايد</h6>
         <p>GCC</p>
     </div>
 </div>

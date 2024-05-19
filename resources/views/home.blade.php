@@ -1,5 +1,4 @@
-
-@extends('app')
+@extends('app-uae')
 @section('content')
 
 
@@ -23,7 +22,7 @@
 						</div> <!-- /.container -->
 					</div> <!-- /.camera_caption -->
 				</div>
-				<div data-src="images/slides/2.jpg">
+				<div data-src="images/slides/tmslgcc.png">
 					<div class="camera_caption">
 						<div class="container">
 							<p class="wow fadeInUp animated text-white">Litigation Support for your Organisation</p>
@@ -156,7 +155,7 @@ Management</a></h4>
 						<div class="row">
 							<div class="col-xl-4 col-md-6 col-12">
 								<div class="single-service">
-									<div class="img-box"><img src="images/services/2.jpg" alt=""></div>
+									<div class="img-box"><img src="images/services/tmslgcc.png" alt=""></div>
 									<div class="text">
 										<h5><a href="{{ route('insights') }}">TMSL GCC Update</a></h5>
 										<p>Update from TMSL's team</p>
@@ -166,7 +165,7 @@ Management</a></h4>
 							</div> <!-- /.col- -->
 							<div class="col-xl-4 col-md-6 col-12">
 								<div class="single-service">
-									<div class="img-box"><img src="images/services/2.jpg" alt=""></div>
+									<div class="img-box"><img src="images/services/tmslgcc.png" alt=""></div>
 									<div class="text">
 										<h5><a href="{{ route('insights') }}">TMSL UAE Update</a></h5>
 										<p>Update from TMSL's team</p>
@@ -176,7 +175,7 @@ Management</a></h4>
 							</div> <!-- /.col- -->
 							<div class="col-xl-4 col-md-6 col-12">
 								<div class="single-service">
-									<div class="img-box"><img src="images/services/2.jpg" alt=""></div>
+									<div class="img-box"><img src="images/services/tmslgcc.png" alt=""></div>
 									<div class="text">
 										<h5><a href="{{ route('insights') }}">TMSL GCC Update</a></h5>
 										<p>Update from TMSL's team</p>
@@ -186,7 +185,7 @@ Management</a></h4>
 							</div> <!-- /.col- -->
 							<div class="col-xl-4 col-md-6 col-12">
 								<div class="single-service">
-									<div class="img-box"><img src="images/services/2.jpg" alt=""></div>
+									<div class="img-box"><img src="images/services/tmslgcc.png" alt=""></div>
 									<div class="text">
 										<h5><a href="{{ route('insights') }}">TMSL UAE Update</a></h5>
 										<p>Update from TMSL's team</p>
@@ -196,7 +195,7 @@ Management</a></h4>
 							</div> <!-- /.col- -->
 							<div class="col-xl-4 col-md-6 col-12">
 								<div class="single-service">
-									<div class="img-box"><img src="images/services/2.jpg" alt=""></div>
+									<div class="img-box"><img src="images/services/tmslgcc.png" alt=""></div>
 									<div class="text">
 										<h5><a href="{{ route('insights') }}">TMSL GCC Updates</a></h5>
 										<p>Update from TMSL's team</p>
@@ -206,7 +205,7 @@ Management</a></h4>
 							</div> <!-- /.col- -->
 							<div class="col-xl-4 col-md-6 col-12">
 								<div class="single-service">
-									<div class="img-box"><img src="images/services/2.jpg" alt=""></div>
+									<div class="img-box"><img src="images/services/tmslgcc.png" alt=""></div>
 									<div class="text">
 										<h5><a href="{{ route('insights') }}">TMSL GCC Update</a></h5>
 										<p>Update from TMSL's team</p>
@@ -230,7 +229,12 @@ Management</a></h4>
 			=====================================================
 			-->
 			<div class="testimonial-section">
+           
 				<div class="overlay">
+              
+                        <h2 class="text-white text-center text-uppercase" style="margin-bottom: 40px;">Testimonials</h2>
+       
+					
 					<div class="container">
 						<div class="wrapper">
 							<div class="bg">
@@ -300,7 +304,7 @@ Management</a></h4>
 																<div class="col-lg-3 col-sm-6 col-12">
 																	<div class="team-member">
 																		<div class="image-box">
-																			<img src="{{ asset('images/team/2.jpg') }}" alt="">
+																			<img src="{{ asset('images/team/tmslgcc.png') }}" alt="">
 																			<div class="overlay">
 																				<div class="hover-content">
 																					<ul>

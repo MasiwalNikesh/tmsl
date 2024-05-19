@@ -30,7 +30,7 @@
                                     <img src="images/icon/services/tax/13.png" alt="Tax Automation Icon" class="icon">
                                     <h5><a href="">Penalty Waiver Committee Request</a></h5>
                                     <p>
-                                <ul>
+                                <ul style="list-style-type: disc; text-align: left;">
                                     <li>Assisting Companies in filing penalty waiver request before the tax authorities</li>
                                     <li>Assisting in replying to queries raised by the Authorities during the process</li>
                                 </ul>
@@ -46,7 +46,7 @@
                                     <img src="images/icon/services/tax/14.png" alt="RPA Solutions Icon" class="icon">
                                     <h5><a href="">Reconsideration Support</a></h5>
                                     <p>
-<ul>
+ <ul style="list-style-type: disc; text-align: left;">
     <li>Assisting Companies in drafting Reconsideration to challenge to decision issued by the Authorities after discussion on facts of the case</li>
     <li>Assisting Companies in filing Reconsideration to challenge to decision issued by the Authorities</li>
 </ul>
@@ -61,7 +61,7 @@
                                     <h5><a href="">TDRC Support</a></h5>
                                     <p>
                                 <p>
-                                    <ul>
+                                    <ul style="list-style-type: disc; text-align: left;">
                                         <li>Assisting Companies in drafting objection to challenge to decision issued by the reconsideration committee after discussion on facts of the case</li>
                                         <li>Assisting Companies in filing Objection before TDRC to challenge to decision issued by the Reconsideration Committee</li>
                                     </ul>
