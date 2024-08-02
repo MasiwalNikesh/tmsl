@@ -32,47 +32,128 @@
 
         <!-- Managed Services Benefits -->
         <div class="wrapper">
-            <div class="theme-title-one">
-                <h4>Benefits</h4>
-                <hr>
-            </div> <!-- /.theme-title-one -->
+            
+           
 
             <div class="row">
-                <!-- Benefit 1: Expertise -->
-                <div class="col-xl-4 col-md-6 col-12">
-                    <div class="single-service">
-                        <div class="img-box"><img src="images/services.jpg" alt=""></div>
-                        <div class="text">
-                            <h5><a href="#">Expertise</a></h5>
-                            <p>Access to a team of IT professionals with specialized skills and knowledge.</p>
-                            <a href="#" class="read-more">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                        </div> <!-- /.text -->
-                    </div> <!-- /.single-service -->
-                </div> <!-- /.col- -->
 
-                <!-- Benefit 2: Cost Efficiency -->
-                <div class="col-xl-4 col-md-6 col-12">
-                    <div class="single-service">
-                        <div class="img-box"><img src="images/services.jpg" alt=""></div>
-                        <div class="text">
-                            <h5><a href="#">Cost Efficiency</a></h5>
-                            <p>Reduce operational costs with a scalable service model tailored to your needs.</p>
-                            <a href="#" class="read-more">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                        </div> <!-- /.text -->
-                    </div> <!-- /.single-service -->
-                </div> <!-- /.col- -->
+            <h2 style="margin-bottom:35px;">Indirect Tax Outsourcing</h2>
+ 
+            <div class="row">
+         
+										<div class="col-md-6 col-12">
+											<ul class="best-list-item">
+												<li>
 
-                <!-- Benefit 3: Focus -->
-                <div class="col-xl-4 col-md-6 col-12">
-                    <div class="single-service">
-                        <div class="img-box"><img src="images/services.jpg" alt=""></div>
-                        <div class="text">
-                            <h5><a href="#">Focus</a></h5>
-                            <p>Redirect internal resources towards strategic initiatives, knowing your IT operations are in expert hands.</p>
-                            <a href="#" class="read-more">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                        </div> <!-- /.text -->
-                    </div> <!-- /.single-service -->
-                </div> <!-- /.col- -->
+                                            <h5>GST Registration, Amendment, Closure & Cancellation Services</h5>
+                                            <p>Comprehensive assistance with GST registrations, amendments, closures, and cancellations.</p>
+                                            </li><hr>
+
+
+
+                                            <li>
+
+                                            <h5>End-to-End GST Reporting & Compliance Support</h5>
+                                            <p>Ensuring complete compliance with GST regulations through meticulous reporting and support.</p>
+                                            </li><hr>
+                                            <li>
+
+                                            <h5>Vendor Input Tax Credit Reconciliations & Management</h5>
+                                            <p>Efficient management of vendor input tax credit reconciliations and related processes.</p>
+                                            </li><hr>
+                                            <li>
+
+                                            <h5>E-Invoicing & E-Way Bills Generation</h5>
+                                            <p>Seamless generation of e-invoices and e-way bills with meticulous reconciliation.</p>
+                                            </li><hr>
+                                            <li>
+
+                                            <h5>GST Annual Reconciliations & Returns Filings Support</h5>
+                                            <p>Expert support for GST annual reconciliations and timely filing of annual returns.</p>
+                                            </li><hr>
+                                            <li>
+
+                                            <h5>Litigation Management</h5>
+                                            <p>Tracking assessments, audits, and ongoing cases across all forums, including updates on judicial precedents and representation support.</p>
+                                            </li><hr>
+                                            <li>
+
+                                            <h5>Adjudication & Appellate Proceedings Handling</h5>
+                                            <p>Expert handling of adjudication, assessment, appellate, and other departmental proceedings, including replies to notices and representation of matters.</p>
+                                            </li><hr>
+                                            <li>
+
+                                            <h5>Advisory Services</h5>
+                                            <p>Strategic advisory on business transactions and implementation suggestions.</p>
+                                            </li><hr>
+                                            <li>
+
+                                            <h5>Network of Indirect Tax Professionals</h5>
+                                            <p>Access to a network of skilled indirect tax professionals in remote locations for seamless service delivery.</p>
+                                            </li><hr>
+
+											</ul>
+										</div>
+										<div class="col-md-6 col-12"><img src="images/services/managed/2.jpg" alt="" class="chart"></div>
+			</div>
+
+            <h2 style="margin-bottom:35px;">Indirect Tax Deputation Support</h2>
+ 
+            <div class="row">
+         										<div class="col-md-6 col-12"><img src="images/services/managed/1.jpg" alt="" class="chart"></div>
+
+										<div class="col-md-6 col-12">
+											<ul class="best-list-item">
+												<li>
+                                                
+                                                <h5>Resource Appointment & Secondment</h5>
+                                                <p>Assisting in the appointment of new resources and secondment of in-house resources.</p>
+                                                </li>
+                                                <hr>
+                                                <li>
+                                                
+                                                <h5>Indirect Tax Manager/Leadership Support</h5>
+                                                <p>Providing support for indirect tax managers and leadership roles.</p>
+                                                </li>
+                                                <hr>
+                                                <li>
+                                                
+                                                <h5>Regular Trainings</h5>
+                                                <p>Conducting regular training sessions for resources to ensure updated knowledge and skills.</p>
+                                                </li>
+                                                <hr>
+
+											</ul>
+										</div>
+			</div>
+            <h2 style="margin-bottom:35px;margin-top:50px;">Indirect Tax Co-Sourcing</h2>
+
+              <div class="row">
+
+										<div class="col-md-6 col-12">
+											<ul class="best-list-item">
+												<li>
+                                                <h5>Customized Solutions</h5>
+                                                <p>Offering customized solutions by outsourcing selective processes.</p>
+                                                </li>
+                                                <hr>
+                                                <li>
+                                                <h5>Indirect Tax Team Setup</h5>
+                                                <p>Assistance in setting up an indirect tax team, including training, process documentation creation and implementation, and recruitment support.</p>
+                                                </li>
+                                                <hr>
+                                                <li>
+                                                <h5>Indirect Tax Management</h5>
+                                                <p>Providing ongoing compliance and advisory support for efficient indirect tax management.</p>
+                                                </li>
+                                                <hr>
+
+											</ul>
+										</div>
+                                        <div class="col-md-6 col-12"><img src="images/services/managed/3.jpg" alt="" class="chart"></div>
+
+			</div>
+
             </div> <!-- /.row -->
         </div> <!-- /.wrapper -->
     </div> <!-- /.container -->

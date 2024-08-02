@@ -553,7 +553,7 @@ body .theme-button-one:hover {
     z-index: 99;
     margin-bottom: -42px;
 }
-.header-one .theme-menu-wrapper .bg-wrapper {
+.bg-wrapper {
     background: #126f80;
     position: relative;
     padding-left: 25px;

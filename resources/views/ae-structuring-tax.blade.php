@@ -1,4 +1,4 @@
-@extends('app')
+@extends('app-uae')
 @section('title', 'Services Page')
 @section('content')
 

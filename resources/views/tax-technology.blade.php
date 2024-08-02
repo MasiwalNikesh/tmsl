@@ -26,14 +26,87 @@
                 <div class="container">
                     <div class="theme-title-one">
                         <h2>Tax Technology</h2>
-                        <p>Tax technology revolutionizes the way businesses approach tax compliance and strategy. This service encompasses a suite of digital solutions designed to optimize tax processes, ensure compliance with global regulations, and leverage tax planning opportunities.</p>
+                        <p>
+                        We at TMSL enable the Companies in leveraging technology into their finance and tax verticals and bring in efficiency and effectiveness in their processes. We believe in bringing INNOvation and autoMATE the processes which bring to our tag line #InnoMateKiyaKya. 
+                        </p>
                     </div> <!-- /.theme-title-one -->
                     <div class="wrapper">
                      <div class="theme-title-one">
-                        <h4>Benefits</h4>
+                        {{-- <h4>Benefits</h4> --}}
                         <hr>
+
+            <div class="about-compnay-two no-bg section-spacing">
+				<div class="overlay">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-6 col-12 text order-lg-last">
+								<div class="theme-title-one">
+									<h2>TMSL BOT Store</h2>
+								</div> <!-- /.theme-title-one -->
+								<p>
+                                Packaged RPA Solutions under 
+plug and play model to automate 
+the routine tax processes
+
+                                </p>
+								{{-- <p>You would see the biggest gift would be from me and the card attached would so thank you for being a friend the biggest gift.</p> --}}
+								 <button class="btn btn-primary">Know More</button>
+							</div> <!-- /.col- -->
+							<div class="col-lg-6 col-12 order-lg-first">
+								<img src="images/services/in/1.jpg" alt="" class="left-img">
+							</div>
+						</div> <!-- /.row -->
+					</div> <!-- /.container -->
+				</div> <!-- /.overlay -->
+			</div>
+
+              <div class="about-compnay-two no-bg section-spacing">
+				<div class="overlay">
+					<div class="container">
+						<div class="row">
+                        <div class="col-lg-6 col-12 order-lg-last">
+								<img src="images/services/in/2.jpg" alt="" class="left-img">
+							</div>
+							<div class="col-lg-6 col-12 text order-lg-first">
+								<div class="theme-title-one">
+									<h2>Customized Tax Solutions</h2>
+								</div> <!-- /.theme-title-one -->
+								<p>
+Understanding the current processes being followed by the Company and bringing the right mix of technologies to automate the same
+                                </p>
+								 <button class="btn btn-primary">Know More</button>
+							</div> <!-- /.col- -->
+							
+						</div> <!-- /.row -->
+					</div> <!-- /.container -->
+				</div> <!-- /.overlay -->
+			</div>
+
+
+            <div class="about-compnay-two no-bg section-spacing">
+				<div class="overlay">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-6 col-12 text order-lg-last">
+								<div class="theme-title-one">
+								<h2>Customized Finance Solutions</h2>
+								</div> <!-- /.theme-title-one -->
+								<p>A tale of a fateful trip that started from this tropic port aboard this tiny ship today still wanted by the government they survive as soldiers of fortune to a deluxe you apartment in the sky to explore strange new worlds to seek out new life and new civilizations to boldly go where no man has gone.</p>
+								<p>You would see the biggest gift would be from me and the card attached would so thank you for being a friend the biggest gift.</p>
+								 <button class="btn btn-primary">Know More</button>
+							</div> <!-- /.col- -->
+							<div class="col-lg-6 col-12 order-lg-first">
+								<img src="images/services/in/3.jpg" alt="" class="left-img">
+							</div>
+						</div> <!-- /.row -->
+					</div> <!-- /.container -->
+				</div> <!-- /.overlay -->
+			</div>
+
+
+
                     </div> <!-- /.theme-title-one -->
-                        <div class="row">
+                        {{-- <div class="row">
                             <div class="col-xl-6 col-md-6 col-12">
                                 <div class="single-service">
                                     <div class="img-box"><img src="images/services.jpg" alt=""></div>
@@ -64,7 +137,7 @@
                                     </div> <!-- /.text -->
                                 </div> <!-- /.single-service -->
                             </div> <!-- /.col- -->
-                        </div> <!-- /.row -->
+                        </div> <!-- /.row --> --}}
                     </div> <!-- /.wrapper -->
 
                     

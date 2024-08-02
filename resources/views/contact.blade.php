@@ -1,4 +1,4 @@
-@extends('app')
+@extends('app-uae')
 
 @section('content')
 
@@ -22,6 +22,9 @@
 					<p class="card-text">
 						1001-B, Pinnacle Corporate Park, BKC CST Link Rd, Next to Trade Centre, Bandra East, Mumbai 400051.
 					</p>
+					<hr>
+					<a href="https://maps.app.goo.gl/Mh7McJt3K7w8YDB99" target="_blank">View on Map</a> <!-- Add the map link -->
+					<i class="fa fa-map-marker" aria-hidden="true"></i> <!-- Add the location icon -->
 				</div>
 			</div>
 		</div>
@@ -34,6 +37,9 @@
 					<p class="card-text">
 						Level 212, East Street, Camp, Pune, Maharashtra 411001.
 					</p>
+					<hr>
+					<a href="https://maps.app.goo.gl/o3k4rGYA5ddBL6zCA9" target="_blank">View on Map</a> <!-- Add the map link -->
+					<i class="fa fa-map-marker" aria-hidden="true"></i> <!-- Add the location icon -->
 				</div>
 			</div>
 		</div>
@@ -46,6 +52,10 @@
 					<p class="card-text">
 						1st Floor, Bizzhub Aspire, 80 Feet Road, Sony World Crossing, Koramangala, Bengaluru, Karnataka 560034
 					</p>
+					<hr>
+					<a href="https://maps.app.goo.gl/SsE54Px3CgjDZHPY9" target="_blank">View on Map</a> <!-- Add the map link -->
+					<i class="fa fa-map-marker" aria-hidden="true"></i> <!-- Add the location icon -->
+					
 				</div>
 			</div>
 		</div>
@@ -53,12 +63,14 @@
 		<div class="col-md-6 col-lg-4 mb-4">
 			<div class="card h-100">
 				<div class="card-body">
-
 					<h6>Dubai</h6> <!-- Move the <h6> element above the card-title class -->
 					<h6 class="card-title"><strong>Pratik Shah</strong></h6> <!-- Make the <h6> element bold -->
 					<p class="card-text">
 						Office No. 501, Al Moosa Tower 1, Sheikh Zayed Road, Trade Centre 1, PO Box: 43466, Dubai, United Arab Emirates.
 					</p>
+					<hr>
+					<a href="https://maps.app.goo.gl/bShaZiTQjZRiBb6i7" target="_blank">View on Map</a> <!-- Add the map link -->
+					<i class="fa fa-map-marker" aria-hidden="true"></i> <!-- Add the location icon -->
 				</div>
 			</div>
 		</div>
@@ -70,6 +82,14 @@
 					<h6 class="card-title"><strong>Anshul Jain</strong></h6> <!-- Make the <h6> element bold -->
 					<p class="card-text">
 						904, Shitiratna Complex, Near Redission Blu Hotel, Panchwati Cross Road, C. G. Road, Ahmedabad, Gujarat – 380006
+					</p>
+					<hr>
+					<a href="https://maps.app.goo.gl/sAtiojKiAZi2DQeA7" target="_blank">View on Map</a> <!-- Add the map link -->
+					<i class="fa fa-map-marker" aria-hidden="true"></i> <!-- Add the location icon -->
+					
+				</div>
+			</div>
+		</div>
 					</p>
 				</div>
 			</div>

@@ -2,14 +2,14 @@
 <html lang="en" data-cookies-popup="true">
 
 @include('layouts.head')
-@include('layouts.header-uae')
+@include('layouts.header')
 
 <!-- Content -->
 @yield('content')
 <!-- Content / End -->
 
 <!-- Footer -->
-@include('layouts.footer-uae')
+@include('layouts.footer')
 <!-- Footer / End -->
 
 @include('layouts.scripts')

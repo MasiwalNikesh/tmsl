@@ -89,9 +89,12 @@
 							<div class="col-xl-4 col-lg-4 col-sm-6 about-widget">
 								<h6 class="title">About Us</h6>
 								<p>
-								TMSL stands for Tax Technology Managed Services LLP. TMSL is a modern day Tax Technology firm that provides tax services- technologically. TMSL is envisioned and founded by leaders to automate the routine and mundane compliances for businesses to focus on the essential strategic functions.
+								TMSL stands for Tax Technology Managed . TMSL is a modern day Tax Technology firm that provides tax services- technologically. TMSL is envisioned and founded by leaders to automate the routine and mundane compliances for businesses to focus on the essential strategic functions.
 								</p>
-								<div class="queries"><i class="flaticon-address"></i> Any Queries : 501, Al Moosa Tower, 1, Sheikh Zayed Road, Dubai, UAE</div>
+								<div class="queries"><i class="flaticon-address"></i> Any Queries : 1001 – B, Pinnacle Corporate Park, BKC CST Link Rd, Next to Trade Centre, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051
+								<hr>
+								<p class="text-white">Mail us at : info@tmsl.in</p>
+								</div>
 							</div> <!-- /.about-widget -->
 						
 							<div class="col-xl-4 col-lg-3 col-sm-6 footer-list">

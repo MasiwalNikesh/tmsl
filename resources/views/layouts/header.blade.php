@@ -141,17 +141,22 @@
 <header class="header-one">
 				<div class="top-header">
 					<div class="container clearfix">
-						<div class="logo float-left"><a href="{{ route('home') }}"><img width="200" src="images/logo/logo.png" alt=""></a></div>
+						<div class="logo float-left"><a href="{{ route('home') }}"><img width="225" src="images/logo/logo.png" alt=""></a></div>
 						<div class="address-wrapper float-right">
 							<ul>
 								{{-- <li class="address">
 									<i class="icon flaticon-placeholder"></i>
 									<h6>Address:</h6>
 								</li> --}}
-								<li class="address">
+								{{-- <li class="address">
 									<i class="icon flaticon-multimedia"></i>
 									<h6>Mail us:</h6>
-									<p>taxteam@tmslglobal.com</p>
+									<p>info@tmslglobal.com</p>
+								</li> --}}
+								<li>
+									<a href="{{ route('home') }}" style="display: flex">
+										<img width="75" src="{{ asset('images/home/india.png') }}" alt="India Flag">
+									</a>
 								</li>
 								{{-- <li>
 									<a href="{{ route('home') }}" style="display: flex">
@@ -159,10 +164,11 @@
 									</a>
 								</li> --}}
 								<li>
-									{{-- <a href="{{ route('home-uae') }}" style="display: flex"> --}}
-										<img width="50" src="{{ asset('images/home/united-arab-emirates.png') }}" alt="United Arab Emirates Flag">
-									{{-- </a> --}}
+									<a href="{{ route('home-uae') }}" style="display: flex">
+										<img width="75" src="{{ asset('images/home/united-arab-emirates.png') }}" alt="United Arab Emirates Flag">
+									</a>
 								</li>
+								
 							
 							</ul>
 						</div> <!-- /.address-wrapper -->
@@ -182,7 +188,7 @@
 									    <li><a href="{{ route('about') }}">About Us</a>
 									    	
 									    </li>
-									    <li><a href="{{ route('services') }}">Services & Tools</a>
+									    <li><a href="{{ route('services') }}">Our Services</a>
 									    	<ul class="dropdown">
 													<li><a href="{{ route('tax-technology') }}"><u>T</u>- Tax Technology</a></li>
 													<li><a href="{{ route('management-service') }}"><u>M</u>- Managed Services</a></li>
@@ -194,11 +200,11 @@
 							
 									       </ul>
 									    </li>
-									    <li><a href="{{ route('insights') }}">Insights</a>
-									    	{{-- <ul class="dropdown">
-									        	<li><a href="project.html">project</a></li>
-									        	<li><a href="project-details.html">Project details</a></li>
-									       </ul> --}}
+									    <li class="{{ Route::currentRouteName() == 'insights' ? 'active' : '' }}" ><a href="{{ route('insights') }}">Insights</a>
+									    	 <ul class="dropdown">
+									        	<li><a href="{{ route('insights') }}">TLAs</a></li>
+									        	<li><a href="{{ route('insights') }}">GCC Communiques</a></li>
+									       </ul>
 									    </li>
 									    {{-- <li><a href="#">Blog</a>
 									    	<ul class="dropdown">

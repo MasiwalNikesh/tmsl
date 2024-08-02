@@ -20,7 +20,7 @@ Route::get('/', function () {
     return view('home');
 })->name('home');
 
-Route::get('home/uae', function () {
+Route::get('/uae', function () {
     return view('home-uae');
 })->name('home-uae');
 
@@ -28,6 +28,10 @@ Route::get('home/uae', function () {
 Route::get('/about', function () {
     return view('about');
 })->name('about');
+
+Route::get('/ae-about', function () {
+    return view('ae-about');
+})->name('ae-about');
 
 Route::get('/services', function () {
     return view('services');
@@ -69,23 +73,44 @@ Route::get('/tmsl-tool', function () {
 
 // Route for tax-technology
 Route::get('tax-technology', function () {
-    return view('ae-tax-technology');
+    return view('tax-technology');
 })->name('tax-technology');
 
 // Route for litigation-management
 Route::get('litigation-management', function () {
-    return view('ae-litigation-management');
+    return view('litigation-management');
 })->name('litigation-management');
 
 // Route for structuring-tax
 Route::get('structuring-tax', function () {
-    return view('ae-structuring-tax');
+    return view('structuring-tax');
 })->name('structuring-tax');
 
 // Route for management-service
 Route::get('management-service', function () {
-    return view('ae-management-service');
+    return view('management-service');
 })->name('management-service');
+
+
+// AE Route for tax-technology
+Route::get('ae-tax-technology', function () {
+    return view('ae-tax-technology');
+})->name('ae-tax-technology');
+
+// Route for litigation-management
+Route::get('ae-litigation-management', function () {
+    return view('ae-litigation-management');
+})->name('ae-litigation-management');
+
+// Route for structuring-tax
+Route::get('ae-structuring-tax', function () {
+    return view('ae-structuring-tax');
+})->name('ae-structuring-tax');
+
+// Route for management-service
+Route::get('ae-management-service', function () {
+    return view('ae-management-service');
+})->name('ae-management-service');
 
 Route::get('/handler', function () {
     return view('handler');

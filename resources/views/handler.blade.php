@@ -20,7 +20,7 @@
     
     <body>
             <div class="centered">
-               <p>Error :  "MessageRejected" ["description"]=> string(134) "Indicates that the action failed, and the message could not be sent. Check the website@tmslglobal.com and stack for a description of what caused the error." } 
+               <p>Error :  "MessageRejected" ["description"]=> string(134) "Indicates that the action failed, and the message could not be sent. This Server Key does not corresponds to tmslglobal.com" } 
 </p>
 				
             </div>

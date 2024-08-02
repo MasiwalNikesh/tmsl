@@ -89,7 +89,7 @@
 							<div class="col-xl-4 col-lg-4 col-sm-6 about-widget">
 								<h6 class="title">About Us</h6>
 								<p>
-								TMSL stands for Tax Technology Managed Services LLP. TMSL is a modern day Tax Technology firm that provides tax services- technologically. TMSL is envisioned and founded by leaders to automate the routine and mundane compliances for businesses to focus on the essential strategic functions.
+								TMSL stands for Tax Technology Managed . TMSL is a modern day Tax Technology firm that provides tax services- technologically. TMSL is envisioned and founded by leaders to automate the routine and mundane compliances for businesses to focus on the essential strategic functions.
 								</p>
 								<div class="queries"><i class="flaticon-address"></i> Any Queries 	<div class="location-icon"><i class="fa fa-location"></i> 501, Al Moosa Tower, 1, Sheikh Zayed Road, Dubai, UAE </div> </div>
 							</div> <!-- /.about-widget -->
@@ -97,10 +97,10 @@
 							<div class="col-xl-4 col-lg-3 col-sm-6 footer-list">
 								<h6 class="title">Services</h6>
 								<ul>
-										<li><a href="{{ route('tax-technology') }}"><u>T</u>- Tax Technology</a></li>
-													<li><a href="{{ route('management-service') }}"><u>M</u>- Managed Services</a></li>
-													<li><a href="{{ route('structuring-tax') }}"><u>S</u>- Structuring Transaction</a></li>
-													<li><a href="{{ route('litigation-management') }}"><u>L</u>- Litigation Management</a></li>
+										<li><a href="{{ route('ae-tax-technology') }}"><u>T</u>- Tax Technology</a></li>
+													<li><a href="{{ route('ae-management-service') }}"><u>M</u>- Managed Services</a></li>
+													<li><a href="{{ route('ae-structuring-tax') }}"><u>S</u>- Structuring Transaction</a></li>
+													<li><a href="{{ route('ae-litigation-management') }}"><u>L</u>- Litigation Management</a></li>
 								</ul>
 							</div> <!-- /.footer-list -->
 							<div class="col-xl-4 col-lg-2 col-sm-6 footer-newsletter">

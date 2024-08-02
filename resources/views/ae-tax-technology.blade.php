@@ -1,4 +1,4 @@
-@extends('app')
+@extends('app-uae')
 @section('title', 'Services Page')
 @section('content')
 
@@ -36,7 +36,9 @@
     <div class="single-solution-block">
         <img src="images/icon/services/tax/1.png" alt="Tax Automation Icon" class="icon">
         <h5><a href="">Tax Automation</a></h5>
-        <p>Streamline tax processes through automated solutions that reduce manual tasks, enhance accuracy, and improve compliance with regulations.</p>
+        <li style="text-align:left;">
+        Streamline tax processes through automated solutions that reduce manual tasks, enhance accuracy, and improve compliance with regulations.
+        </li>
     </div> <!-- /.single-solution-block -->
 </div> <!-- /.col- -->
 
@@ -45,7 +47,7 @@
     <div class="single-solution-block">
         <img src="images/icon/services/tax/2.png" alt="RPA Solutions Icon" class="icon">
         <h5><a href="">RPA Solutions</a></h5>
-        <p>Implement Robotic Process Automation to handle repetitive tax-related tasks, boosting efficiency and allowing your team to focus on strategic activities.</p>
+        <li style="text-align:left;">Implement Robotic Process Automation to handle repetitive tax-related tasks, boosting efficiency and allowing your team to focus on strategic activities.</li>
     </div> <!-- /.single-solution-block -->
 </div> <!-- /.col- -->
 
@@ -54,7 +56,7 @@
     <div class="single-solution-block">
         <img src="images/icon/services/tax/3.png" alt="VAT Tool Icon" class="icon">
         <h5><a href="">VAT Tool</a></h5>
-        <p>Utilize our specialized VAT Tool to calculate, file, and manage VAT returns seamlessly, ensuring compliance with local tax laws.</p>
+        <li style="text-align:left;">Utilize our specialized VAT Tool to calculate, file, and manage VAT returns seamlessly, ensuring compliance with local tax laws.</li>
     </div> <!-- /.single-solution-block -->
 </div> <!-- /.col- -->
 
@@ -63,7 +65,7 @@
     <div class="single-solution-block">
         <img src="images/icon/services/tax/4.png" alt="E-invoicing Icon" class="icon">
         <h5><a href="">E-invoicing</a></h5>
-        <p>Adopt electronic invoicing to streamline your billing processes, reduce paper waste, and meet statutory digital submission requirements.</p>
+        <li style="text-align:left;">Adopt electronic invoicing to streamline your billing processes, reduce paper waste, and meet statutory digital submission requirements.</li>
     </div> <!-- /.single-solution-block -->
 </div> <!-- /.col- -->
 

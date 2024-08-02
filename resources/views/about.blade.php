@@ -25,7 +25,7 @@
 				<div class="container clearfix">
 					<h3 class="title">Serving Tax, <br> Technologically</h3>
 					<p>
-					TMSL stands for Tax Technology Managed Services LLP. TMSL is a modern day Tax Technology firm that provides tax services- technologically. TMSL is envisioned and founded by leaders to automate the routine and mundane compliances for businesses to focus on the essential strategic functions. With the increased demand of e-linking and e-assessments round the globe, TMSL provides an all-at-source solution to the Indian and GCC Indirect Taxes challenges. With the vide experience of the team in erstwhile taxes as well, our expertise is to provide the best solution with quick turnaround time. 
+					TMSL stands for Tax Technology Managed . TMSL is a modern day Tax Technology firm that provides tax services- technologically. TMSL is envisioned and founded by leaders to automate the routine and mundane compliances for businesses to focus on the essential strategic functions. With the increased demand of e-linking and e-assessments round the globe, TMSL provides an all-at-source solution to the Indian and GCC Indirect Taxes challenges. With the vide experience of the team in erstwhile taxes as well, our expertise is to provide the best solution with quick turnaround time. 
 					The company is founded by Pratik Shah having 2 decades and Jigar Doshi having 15 years of experience in indirect taxes.
 					</p>
 					{{-- <a href="#" class="theme-button-one">CONTACT US</a> --}}
@@ -154,7 +154,7 @@
 				</div> <!-- /.container -->
 			</div> <!-- /.theme-counter --> --}}
 
-				@include('partials.team')
+				@include('partials.team-in')
 			<!-- 
 			=============================================
 				Core Values
@@ -262,7 +262,7 @@
 					<div class="tab-content">
 						<div role="tabpanel" class="tab-pane fade in active" id="history">
 						<h3 class="mb-40">About Us</h3>
-							<p class="lead">TMSL stands for Tax Technology Managed Services LLP. TMSL is a modern day Tax Technology firm that provides tax services- technologically. TMSL is envisioned and founded by leaders to automate the routine and mundane compliances for businesses to focus on the essential strategic functions. With the increased demand of e-linking and e-assessments round the globe, TMSL provides an all-at-source solution to the Indian and GCC Indirect Taxes challenges. With the vide experience of the team in erstwhile taxes as well, our expertise is to provide the best solution with quick turnaround time. The company is founded by Pratik Shah having 2 decades and Jigar Doshi having 15 years of experience in indirect taxes.</p>
+							<p class="lead">TMSL stands for Tax Technology Managed . TMSL is a modern day Tax Technology firm that provides tax services- technologically. TMSL is envisioned and founded by leaders to automate the routine and mundane compliances for businesses to focus on the essential strategic functions. With the increased demand of e-linking and e-assessments round the globe, TMSL provides an all-at-source solution to the Indian and GCC Indirect Taxes challenges. With the vide experience of the team in erstwhile taxes as well, our expertise is to provide the best solution with quick turnaround time. The company is founded by Pratik Shah having 2 decades and Jigar Doshi having 15 years of experience in indirect taxes.</p>
 						</div>
 						<div role="tabpanel" class="tab-pane fade" id="mission">
 							<div class="row">

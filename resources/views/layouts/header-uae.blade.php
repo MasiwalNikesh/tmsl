@@ -141,7 +141,7 @@
 <header class="header-one">
 				<div class="top-header">
 					<div class="container clearfix">
-						<div class="logo float-left"><a href="{{ route('home') }}"><img width="200" src="{{ asset('images/uae/logo-uae.png') }}" alt=""></a></div>
+						<div class="logo float-left"><a href="{{ route('home-uae') }}"><img width="200" src="{{ asset('images/uae/logo-uae.png') }}" alt=""></a></div>
 						<div class="address-wrapper float-right">
 							<ul>
 								{{-- <li class="address">
@@ -155,15 +155,15 @@
 									<p>taxteam@tmslglobal.com</p>
 								</li>
 								<li>
-									<a href="{{ route('home') }}" style="display: flex">
+									<a href="{{ route('home-uae') }}" style="display: flex">
 										<img width="50" src="{{ asset('images/home/united-arab-emirates.png') }}" alt="United Arab Emirates Flag">
 									</a>
 								</li>
-								<li>
+								{{-- <li>
 									<a href="{{ route('home') }}" style="display: flex">
 										<img width="50" src="{{ asset('images/home/india.png') }}" alt="India Flag">
 									</a>
-								</li>
+								</li> --}}
 								
 							</ul>
 						</div> <!-- /.address-wrapper -->
@@ -177,28 +177,28 @@
 					   		<div class="menu-wrapper float-left">
 					   			<nav id="mega-menu-holder" class="clearfix">
 								   <ul class="clearfix">
-									    <li class="active">	<a href="{{ route('home') }}">Home</a>
+									    <li class="{{ Route::currentRouteName() == 'home-uae' ? 'active' : '' }}">	<a href="{{ route('home-uae') }}">Home</a>
 									    	
 									    </li>
-									    <li><a href="{{ route('about') }}">About Us</a>
+									    <li class="{{ Route::currentRouteName() == 'ae-about' ? 'active' : '' }}"><a href="{{ route('ae-about') }}">About Us</a>
 									    	
 									    </li>
-									    <li><a href="{{ route('services') }}">Services & Tools</a>
+									    <li class="{{ Route::currentRouteName() == 'services' ? 'active' : '' }}" ><a href="{{ route('ae-tax-technology') }}">Services & Tools</a>
 									    	<ul class="dropdown">
-													<li><a href="{{ route('tax-technology') }}">Tax Technology</a></li>
-													<li><a href="{{ route('management-service') }}">Managed Services</a></li>
-													<li><a href="{{ route('structuring-tax') }}">Structuring Transaction</a></li>
-													<li><a href="{{ route('litigation-management') }}">Litigation Management</a></li>
+													<li><a href="{{ route('ae-tax-technology') }}">Tax Technology</a></li>
+													<li><a href="{{ route('ae-management-service') }}">Managed Services</a></li>
+													<li><a href="{{ route('ae-structuring-tax') }}">Structuring Transaction</a></li>
+													<li><a href="{{ route('ae-litigation-management') }}">Litigation Management</a></li>
 																		        
 																		        	
 							
 									       </ul>
 									    </li>
-									    <li><a href="{{ route('insights') }}">Insights</a>
-									    	{{-- <ul class="dropdown">
-									        	<li><a href="project.html">project</a></li>
-									        	<li><a href="project-details.html">Project details</a></li>
-									       </ul> --}}
+									    <li class="{{ Route::currentRouteName() == 'insights' ? 'active' : '' }}" ><a href="{{ route('insights') }}">Insights</a>
+									    	 <ul class="dropdown">
+									        	<li><a href="{{ route('insights') }}">TLAs</a></li>
+									        	<li><a href="{{ route('insights') }}">GCC Communiques</a></li>
+									       </ul>
 									    </li>
 									    {{-- <li><a href="#">Blog</a>
 									    	<ul class="dropdown">
@@ -207,7 +207,7 @@
 									        	<li><a href="blog-details.html">Blog details</a></li>
 									       </ul>
 									    </li> --}}
-									    <li><a href="{{ route('contact') }}">Contact</a></li>
+									    <li class="{{ Route::currentRouteName() == 'contact' ? 'active' : '' }}"><a href="{{ route('contact') }}">Contact</a></li>
 								   </ul>
 								</nav> <!-- /#mega-menu-holder -->
 					   		</div> <!-- /.menu-wrapper -->
@@ -216,9 +216,8 @@
 					   			<ul>
 					   				<li class="social-icon">
 					   					<ul>
-											<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 										
-											<li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+											<li><a href="https://www.linkedin.com/company/tmslglobal/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 											
 										</ul>
 					   				</li>
